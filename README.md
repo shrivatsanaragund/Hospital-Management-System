@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/2lpnXVPO)
+Developed and maintained a comprehensive hospital management system with a collection of databases for patient history,
+doctor details, available doctors, virtual pharmacy, etc.
+• Implemented a secure user authentication system, assigning each user a unique ID and password for accessing specific
+functionalities, ensuring data privacy and security.
+• Enabled doctors to access patient medical histories, fostering efficient diagnosis and treatment planning, while patients could
+view information on available doctors
